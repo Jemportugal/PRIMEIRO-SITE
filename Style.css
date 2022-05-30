@@ -81,14 +81,16 @@ text-decoration: none;
     text-size-adjust: auto;
     text-align: center;
     margin: center;
-    border-top: dotted;
-    border-bottom: dotted;
+    border-top: dotted grey;
+    border-bottom: dotted grey;
+    font-family: cursive;
 }
 
 .logo {
     border-radius: 100%;
     margin: center;
 }
+
 
 .link {
     text-align: center;
